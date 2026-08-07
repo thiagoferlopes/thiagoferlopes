@@ -1,6 +1,6 @@
 # Thiago Ferreira Lopes
 
-📍 Petrolina, PE • ✉️ thiagoferreiralopes262007@gmail.com
+📍 Petrolina, PE • ✉️ thiagoferreiralopesss@gmail.com
 
 **Estudante de Ciência de Dados | Foco em Engenharia de Dados**
 
