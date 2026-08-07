@@ -13,11 +13,7 @@ Meu objetivo é evoluir progressivamente em **ETL, pipelines de dados, bancos de
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,jupyter" />
 </p>
 
 ## Projeto em desenvolvimento
