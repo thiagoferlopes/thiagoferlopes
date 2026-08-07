@@ -1,5 +1,7 @@
 # Thiago Ferreira Lopes
 
+📍 Petrolina, PE • ✉️ thiagoferreiralopes262007@gmail.com
+
 **Estudante de Ciência de Dados | Foco em Engenharia de Dados**
 
 Estudante de Ciência de Dados, construindo minha carreira na área de **Dados**, com foco em Engenharia de Dados.
@@ -41,12 +43,6 @@ Projeto prático desenvolvido para consolidar conhecimentos em **Python, Pandas,
 
 ---
 
-## Evolução
-
-**Fundamentos → Projetos → ETL → Pipelines → Cloud → Big Data**
-
----
-
 <p align="center">
   <a href="https://github.com/thiagoferlopes">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
@@ -54,9 +50,5 @@ Projeto prático desenvolvido para consolidar conhecimentos em **Python, Pandas,
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thiagoferlopes/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:thiagoferreiralopes262007@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
