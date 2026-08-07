@@ -6,7 +6,7 @@
 
 Estudante de Ciência de Dados, construindo minha carreira na área de **Dados**, com foco em Engenharia de Dados.
 
-Atualmente, estudo **Python, SQL, PostgreSQL e Pandas**, desenvolvendo projetos práticos para consolidar conhecimentos em processamento, organização e análise de dados.
+Atualmente, estudo **Python, Pandas, Git e GitHub**, desenvolvendo projetos práticos para consolidar conhecimentos em processamento, organização e análise de dados.
 
 Meu objetivo é evoluir progressivamente em **ETL, pipelines de dados, bancos de dados e tecnologias de dados**, construindo uma base sólida por meio de projetos e aprendizado contínuo.
 
