@@ -15,29 +15,6 @@ Meu objetivo é evoluir progressivamente em **ETL, pipelines de dados, bancos de
   <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,jupyter" />
 </p>
 
-## Projeto em desenvolvimento
-
-### Análise de Dados de Vendas — Olist E-commerce
-
-Projeto prático desenvolvido para consolidar conhecimentos em **Python, Pandas, SQL e PostgreSQL**, utilizando dados públicos do e-commerce brasileiro.
-
-* Extração de dados a partir de arquivos CSV
-* Limpeza e transformação utilizando Python e Pandas
-* Modelagem de banco de dados relacional
-* Armazenamento no PostgreSQL
-* Consultas SQL para análise de dados
-* Análise Exploratória de Dados
-* Versionamento com Git e GitHub
-* Documentação do projeto
-
----
-
-## Formação
-
-**Tecnólogo em Ciência de Dados — UNINTER**
-
-2026 – 2028
-
 ---
 
 <p align="center">
