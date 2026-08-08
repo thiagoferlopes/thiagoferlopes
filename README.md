@@ -1,7 +1,4 @@
 # Thiago Ferreira Lopes
-
-📍 Petrolina, PE • ✉️ thiagoferreiralopesss@gmail.com
-
 **Estudante de Ciência de Dados | Foco em Engenharia de Dados**
 
 Estudante de Ciência de Dados, construindo minha carreira na área de **Dados**, com foco em Engenharia de Dados.
