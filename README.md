@@ -1,13 +1,10 @@
 # Thiago Ferreira Lopes
+
 **Estudante de Ciência de Dados | Foco em Engenharia de Dados**
 
-Estudante de Ciência de Dados, construindo minha carreira na área de **Dados**, com foco em Engenharia de Dados.
+Estudante de Ciência de Dados, construindo minha carreira em **Engenharia de Dados**. Atualmente desenvolvo conhecimentos práticos em **Python, SQL, PostgreSQL e Pandas**, com foco em processamento, transformação e organização de dados.
 
-Atualmente, estudo **Python, Pandas, Git e GitHub**, desenvolvendo projetos práticos para consolidar conhecimentos em processamento, organização e análise de dados.
-
-Meu objetivo é evoluir progressivamente em **ETL, pipelines de dados, bancos de dados e tecnologias de dados**, construindo uma base sólida por meio de projetos e aprendizado contínuo.
-
----
+Busco evoluir continuamente por meio de **projetos práticos**, consolidando fundamentos de programação, bancos de dados, ETL e desenvolvimento de pipelines de dados.
 
 ## Stack
 
@@ -15,14 +12,18 @@ Meu objetivo é evoluir progressivamente em **ETL, pipelines de dados, bancos de
   <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,jupyter" />
 </p>
 
----
+**Python · SQL · Pandas · PostgreSQL · Git · GitHub**
 
-<p align="center">
+## Contato
+
+<p align="left">
   <a href="https://github.com/thiagoferlopes">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="30"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thiagoferlopes/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
+  </a>
+  <a href="mailto:thiagoferreiralopes262007@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/new-post.png" width="30"/>
   </a>
 </p>
