@@ -13,16 +13,3 @@ Atualmente, estou aprofundando meus conhecimentos em **ETL, modelagem de dados, 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,jupyter" />
 </p>
-
----
-
-### Contato
-
-<p align="left">
-  <a href="https://github.com/thiagoferlopes">
-    <img src="https://skillicons.dev/icons?i=github" width="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thiagoferlopes/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
-  </a>
-</p>
