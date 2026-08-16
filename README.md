@@ -1,6 +1,6 @@
 # Thiago Ferreira Lopes
 
-### Data Science Student • Aspiring Data Engineer
+### Data Engineer
 
 Estudante de **Ciência de Dados** com foco em **Engenharia de Dados**, atualmente desenvolvendo habilidades em **Python, SQL, PostgreSQL e Pandas**. Tenho interesse em construir soluções para **processamento, transformação e armazenamento de dados**, aplicando esses conhecimentos em projetos práticos.
 
